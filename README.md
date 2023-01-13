@@ -1,7 +1,3 @@
-# Physical Simulation
-
-A Python implementation of the "Projective Dynamics: Fusing Constraint Projections for Fast Simulation" paper by Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, Mark Pauly
-
 ## Dependencies
 
 Python 3, NumPy, PyGlet, PIL
